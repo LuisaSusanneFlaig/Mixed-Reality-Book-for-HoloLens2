@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 2303dce427251dc47a1fdcfa3309324f
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: 2180905122644622987
+    second: CINEMA_4D_3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: belt
+    second: {fileID: 2100000, guid: 28c7021479b850d4e9c503e79d8648cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blossom
+    second: {fileID: 2100000, guid: c3a583bca9993be419ad1404555e875f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blossom_rose
+    second: {fileID: 2100000, guid: 3bd1f6184394dae4daee535c8f6b9616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bobble
+    second: {fileID: 2100000, guid: 246cd53b103147b4fa6f5dd78e89513a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 39047884a85a3cd4792184a0dab0eff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bud
+    second: {fileID: 2100000, guid: 77696244f6a85a345ba7d5994b4019ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button
+    second: {fileID: 2100000, guid: 985f8d659a8f05644ae23be8651f65d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: ab3045b9effd26941b7a27c58d4c9bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: 8debbaf8d89a28f41ae0e0dccdbfa0b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: landscape
+    second: {fileID: 2100000, guid: cbaca6d0c3b14f34d8c4189a2b569547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaves
+    second: {fileID: 2100000, guid: 1c6df990dc1e0f842bed89d6214fce75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants
+    second: {fileID: 2100000, guid: aceb39e28dd7bf749b519003ce5630ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scarff
+    second: {fileID: 2100000, guid: 5b686a9770afbf84698eba7849884ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt
+    second: {fileID: 2100000, guid: 7f573b8fd6e1ea24e807c685d0004816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes
+    second: {fileID: 2100000, guid: 3edf35ea087eebf4783ac5a33acb40da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strunk
+    second: {fileID: 2100000, guid: 9860d1e2a4b8eb8478df40fb893af62b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: strunk_rose
+    second: {fileID: 2100000, guid: 7c27de2015a3a6b42a89ceaa2b756dc4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Landscape_DefaultMaterial_BaseColor_1
+    second: {fileID: 2800000, guid: 700fd4243601efa42ae9454bfc3cbf96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Landscape_DefaultMaterial_Height_1
+    second: {fileID: 2800000, guid: 7ac45e5346627ee4380d973f4fd0e58a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Landscape_DefaultMaterial_Normal_1
+    second: {fileID: 2800000, guid: a5ba393480d875a4daa3519252a8db2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Landscape_DefaultMaterial_Roughness_1
+    second: {fileID: 2800000, guid: 1f098fe95d203b445a5e490683061284, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rose_final_1_BaseColor
+    second: {fileID: 2800000, guid: 7a54c498b7f257948b24bbd01cff07c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rose_final_1_Height
+    second: {fileID: 2800000, guid: 61d4217ee0a0d964b80963ba71d168a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rose_final_1_Normal
+    second: {fileID: 2800000, guid: 22bd063c342897642929802ac0c71d7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rose_final_1_Roughness
+    second: {fileID: 2800000, guid: f65fce6ec12277343b2aed3afcd53eff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_blossom_BaseColor
+    second: {fileID: 2800000, guid: 1972dd8b574d48e47abca506b00ef71e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_blossom_Height
+    second: {fileID: 2800000, guid: 466c66921e984524daf337cfdd48263f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_blossom_Normal
+    second: {fileID: 2800000, guid: 452cce47ac395334c9be7863f180a548, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_blossom_Roughness
+    second: {fileID: 2800000, guid: 0fa5719f269acaa488caedb71b55cfa6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_bobble_BaseColor
+    second: {fileID: 2800000, guid: 9816539095e30f642b4f843b2c2c40f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_bobble_Height
+    second: {fileID: 2800000, guid: e86504eed4eea8341b8a7a96e5637cb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_bobble_Normal
+    second: {fileID: 2800000, guid: 6c123b3faf77be84b9722deab5619196, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_bobble_Roughness
+    second: {fileID: 2800000, guid: 81e54721bc15ff04a8b612db7bd11a31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_strunk_BaseColor
+    second: {fileID: 2800000, guid: 3f7c12ca596dc444bbbb1668fc0b9744, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_strunk_Height
+    second: {fileID: 2800000, guid: 18b3861c01336754a8da72c75a476af9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_strunk_Normal
+    second: {fileID: 2800000, guid: 8ea4d8dd968548d419fc4f5c8e191f3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: casualflower_strunk_Roughness
+    second: {fileID: 2800000, guid: aa5523372eebc104abc36a5161508672, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_bud_BaseColor
+    second: {fileID: 2800000, guid: 692f70af31eb8a54fabb12d2153f1766, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_bud_Normal
+    second: {fileID: 2800000, guid: d204f8b0dded59149aa216047edc1cb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_bud_Roughness
+    second: {fileID: 2800000, guid: e8f9b637a210cdc4792a768abe521eb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_leaves_BaseColor
+    second: {fileID: 2800000, guid: a5228769eeeec954791e874b6c9c30f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_leaves_Height
+    second: {fileID: 2800000, guid: 352cffcd78a837f4fa3471a7bc66cd88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_leaves_Normal
+    second: {fileID: 2800000, guid: bae8683d9e32ed84f9b40fbe0848e8fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_leaves_Roughness
+    second: {fileID: 2800000, guid: 8d31dc4b3d65d494b9c1bcbaff0990bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_strunk_BaseColor
+    second: {fileID: 2800000, guid: 4da6fdfd1b5b2d540bb90a04413863c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_strunk_Normal
+    second: {fileID: 2800000, guid: eb69242235842924584380bfed2fa538, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: itstherose_strunk_Roughness
+    second: {fileID: 2800000, guid: 8479fa610bfdddf44b7fd591d12a3ddf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_belt_BaseColor
+    second: {fileID: 2800000, guid: c288a5aa4a9e7a041896e4375da53b02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_belt_Height
+    second: {fileID: 2800000, guid: ec675a128e052cb44b81adfdde02b92d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_belt_Normal
+    second: {fileID: 2800000, guid: b4d254c4b9249aa4aa1adeb0397ec1f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_belt_Roughness
+    second: {fileID: 2800000, guid: 194ab93633f9eff4f8c607c7d1d586bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_body_BaseColor
+    second: {fileID: 2800000, guid: ce6630f2f909549498e94411ad062ca2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_body_Height
+    second: {fileID: 2800000, guid: d7bbaf7e3e3c5f744bb1335cbbdcefbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_body_Normal
+    second: {fileID: 2800000, guid: aa3c332925740634082f6e0bc5489f33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_body_Roughness
+    second: {fileID: 2800000, guid: fe7a1c9ad7997df459d7cdbb26208eed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_button_BaseColor
+    second: {fileID: 2800000, guid: 6d2a83e14b3c5ba4c9803b4b767a2ea4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_button_Height
+    second: {fileID: 2800000, guid: 3a3e58509c8c9144a9fe7c5ee3250d6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_button_Normal
+    second: {fileID: 2800000, guid: ef184dfd0c20288409dfad3fb64eed19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_button_Roughness
+    second: {fileID: 2800000, guid: 7ae4c09b05664cb4a9f44642d034d8bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_eyes_BaseColor
+    second: {fileID: 2800000, guid: cae40acc7eca62e46b72ef1950db9cfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_eyes_Height
+    second: {fileID: 2800000, guid: f34cba81bb9173448888b2ac4159d7e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_eyes_Normal
+    second: {fileID: 2800000, guid: 4126a9ff14adf4847bf41f4b9bde7d90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_eyes_Roughness
+    second: {fileID: 2800000, guid: 5ede6672b4974b34591793bc430cae17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_hair_BaseColor
+    second: {fileID: 2800000, guid: 81dbcba1e65c05f42bce8f2cf34efe34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_hair_Height
+    second: {fileID: 2800000, guid: fa0a410a08f9a384291ca305f6ee23d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_hair_Normal
+    second: {fileID: 2800000, guid: e7a463f5ee822014294c41aa94d23f9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_hair_Roughness
+    second: {fileID: 2800000, guid: ca00ccb90ded3f146a3b1cd2085df0ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_pants_BaseColor
+    second: {fileID: 2800000, guid: 9604f076512515749a23f2c0da81ae79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_pants_Height
+    second: {fileID: 2800000, guid: 27cdf878533937c43835e6ec19e4b9af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_pants_Normal
+    second: {fileID: 2800000, guid: 786f76b1af3cd874185a41cde4bd49a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_pants_Roughness
+    second: {fileID: 2800000, guid: 7a42c1809fe2fcd409a4f4decde3268d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_scarf_BaseColor
+    second: {fileID: 2800000, guid: 4908e810a333b844b9d91ee941d1afe9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_scarf_Height
+    second: {fileID: 2800000, guid: 35f08d7116cb2b14e8f8d7cdd7c36796, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_scarf_Normal
+    second: {fileID: 2800000, guid: 077f932f1f31c944dbc9ce0c5f33f842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_scarf_Roughness
+    second: {fileID: 2800000, guid: 0536d31b6434a9743b1efc44676ed50e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shirt_BaseColor
+    second: {fileID: 2800000, guid: 5a8234559907c7e4eafbd074ec563e3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shirt_Height
+    second: {fileID: 2800000, guid: 9a637498953233e4ebc110849fd758ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shirt_Normal
+    second: {fileID: 2800000, guid: a065290a61404d146810dd438a9c0222, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shirt_Roughness
+    second: {fileID: 2800000, guid: ab9a7a4f1ed3527479abc62cb7cc4ae9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shoes_BaseColor
+    second: {fileID: 2800000, guid: 1db9daf2824cce54298a16ed8f930936, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shoes_Height
+    second: {fileID: 2800000, guid: 3d06f3f932904264b9003a583995fb63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shoes_Normal
+    second: {fileID: 2800000, guid: c6493a70d5b7f924e8092fa2448b6d5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: v 7_shoes_Roughness
+    second: {fileID: 2800000, guid: e3600aca1da46954e875015af5f8ee84, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_3
+      takeName: CINEMA_4D_3
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

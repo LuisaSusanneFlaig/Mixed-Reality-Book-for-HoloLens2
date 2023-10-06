@@ -1,0 +1,9 @@
+# Use Git LFS for FBX files
+*.fbx filter=lfs diff=lfs merge=lfs -text
+
+# Large files exceeding GitHub's recommended maximum file size
+
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/WindowsStoreApps/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/WindowsStoreApps/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+
