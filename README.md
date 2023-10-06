@@ -1,8 +1,9 @@
-Readme MR-Storybook "The Little Prince"
+MR-Storybook "The Little Prince"
 
 Author: Luisa Flaig
 
 Project Description: Master's thesis to obtain the degree of Master of Science in the Department of Computer Science and Media at the Brandenburg University of Applied Sciences.
+
 Source Credits:
 
 Fonts:
