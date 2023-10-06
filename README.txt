@@ -1,38 +1,23 @@
-Readme MR-Storybuch "Der kleine Prinz"
+Readme MR-Storybook "The Little Prince"
 
-Autor: Luisa Flaig
+Author: Luisa Flaig
 
-Projektbeschreibung: Masterarbeit zur Erlangung des Grades Master of Science des Fachbereich Informatik und Medien
-der Technischen Hochschule Brandenburg
-------------------------------------------
-Quellennachweis:
+Project Description: Master's thesis to obtain the degree of Master of Science in the Department of Computer Science and Media at the Brandenburg University of Applied Sciences.
+Source Credits:
 
-Schriften: 
+Fonts:
 
-Shadows Into Light - eingebunden von https://fonts.google.com/specimen/Shadows+Into+Light
+Shadows Into Light - sourced from https://fonts.google.com/specimen/Shadows+Into+Light
 
-Libre Baskerville - eingebunden von https://fonts.google.com/specimen/Libre+Baskerville
+Libre Baskerville - sourced from https://fonts.google.com/specimen/Libre+Baskerville
 
-Quicksand - eingebunden von https://fonts.google.com/specimen/Quicksand
+Quicksand - sourced from https://fonts.google.com/specimen/Quicksand
 
-Texte:
+Texts:
 
-Texte stammen von https://www.exuperysprinz.de/text/8-kapitel/
+Texts are sourced from https://www.exuperysprinz.de/text/8-kapitel/
 
-Musik:
+Music:
 
-Soundtracks stammen von https://freemusicarchive.org/music/m33-project/classical-jouneys-vol-1
-
--------------------------
-Installationsanleitung:
-
-der kleine Print.sln mit Visual Studio Code öffnen.
-
-Bei Projektmappenkonfigurationen "Release" auswählen.
-
-Bei Projektmappenplattformen "ARM64" auswählen.
-
-HoloLens2 per USB mit dem Computer verbinden und dann "Gerät" auswählen und "Starten ohne Debuggen" wählen.
-
-
+Soundtracks are sourced from https://freemusicarchive.org/music/m33-project/classical-jouneys-vol-1
 
