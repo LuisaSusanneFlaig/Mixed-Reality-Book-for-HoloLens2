@@ -20,7 +20,3 @@ Texts are sourced from https://www.exuperysprinz.de/text/8-kapitel/
 Music:
 
 Soundtracks are sourced from https://freemusicarchive.org/music/m33-project/classical-jouneys-vol-1
-
-
-
-
